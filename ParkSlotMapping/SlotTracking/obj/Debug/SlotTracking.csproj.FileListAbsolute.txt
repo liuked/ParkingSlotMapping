@@ -1,0 +1,10 @@
+C:\Users\Luca\Dropbox\peb\SlotTracking\SlotTracking\bin\Debug\SlotTracking.exe.config
+C:\Users\Luca\Dropbox\peb\SlotTracking\SlotTracking\obj\Debug\SlotTracking.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Dropbox\peb\SlotTracking\SlotTracking\obj\Debug\SlotTracking.Properties.Resources.resources
+C:\Users\Luca\Dropbox\peb\SlotTracking\SlotTracking\obj\Debug\SlotTracking.csproj.GenerateResource.Cache
+C:\Users\Luca\Dropbox\peb\SlotTracking\SlotTracking\bin\Debug\SlotTracking.exe
+C:\Users\Luca\Dropbox\peb\SlotTracking\SlotTracking\bin\Debug\SlotTracking.pdb
+C:\Users\Luca\Dropbox\peb\SlotTracking\SlotTracking\obj\Debug\SlotTracking.exe
+C:\Users\Luca\Dropbox\peb\SlotTracking\SlotTracking\obj\Debug\SlotTracking.pdb
+C:\Users\Luca\Dropbox\peb\SlotTracking\SlotTracking\obj\Debug\SlotTracking.frmNewProject.resources
+C:\Users\Luca\Dropbox\peb\SlotTracking\SlotTracking\obj\Debug\SlotTracking.frmParkTracking.resources

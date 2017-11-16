@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<slotsmap nslots="2" width="1296" height="972">
+  <parkingslot label="SLOT1" state="empty">
+    <corners>
+      <corner number="0">
+        <X>691</X>
+        <Y>942</Y>
+      </corner>
+      <corner number="1">
+        <X>710</X>
+        <Y>812</Y>
+      </corner>
+      <corner number="3">
+        <X>408</X>
+        <Y>667</Y>
+      </corner>
+      <corner number="2">
+        <X>387</X>
+        <Y>798</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="fff65" state="empty">
+    <corners>
+      <corner number="0">
+        <X>710</X>
+        <Y>809</Y>
+      </corner>
+      <corner number="1">
+        <X>692</X>
+        <Y>693</Y>
+      </corner>
+      <corner number="2">
+        <X>416</X>
+        <Y>563</Y>
+      </corner>
+      <corner number="3">
+        <X>413</X>
+        <Y>666</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+	<parkingslot label="ciao" state="full">
+    <corners>
+      <corner number="0">
+        <X>810</X>
+        <Y>909</Y>
+      </corner>
+      <corner number="1">
+        <X>792</X>
+        <Y>793</Y>
+      </corner>
+      <corner number="2">
+        <X>516</X>
+        <Y>663</Y>
+      </corner>
+      <corner number="3">
+        <X>513</X>
+        <Y>766</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+</slotsmap>

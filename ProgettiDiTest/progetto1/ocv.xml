@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<opencv_storage>
+  <nodes_number>14</nodes_number>
+  <parkingslot label="SLOT1" state="empty">
+    <corners>
+      <corner number="0">
+        <X>713</X>
+        <Y>814</Y>
+      </corner>
+      <corner number="1">
+        <X>698</X>
+        <Y>697</Y>
+      </corner>
+      <corner number="2">
+        <X>427</X>
+        <Y>563</Y>
+      </corner>
+      <corner number="3">
+        <X>414</X>
+        <Y>665</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT2" state="empty">
+    <corners>
+      <corner number="0">
+        <X>698</X>
+        <Y>695</Y>
+      </corner>
+      <corner number="1">
+        <X>673</X>
+        <Y>602</Y>
+      </corner>
+      <corner number="2">
+        <X>434</X>
+        <Y>496</Y>
+      </corner>
+      <corner number="3">
+        <X>429</X>
+        <Y>563</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT3" state="empty">
+    <corners>
+      <corner number="0">
+        <X>673</X>
+        <Y>601</Y>
+      </corner>
+      <corner number="1">
+        <X>650</X>
+        <Y>522</Y>
+      </corner>
+      <corner number="2">
+        <X>434</X>
+        <Y>434</Y>
+      </corner>
+      <corner number="3">
+        <X>434</X>
+        <Y>496</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT4" state="empty">
+    <corners>
+      <corner number="0">
+        <X>649</X>
+        <Y>521</Y>
+      </corner>
+      <corner number="1">
+        <X>631</X>
+        <Y>459</Y>
+      </corner>
+      <corner number="2">
+        <X>432</X>
+        <Y>382</Y>
+      </corner>
+      <corner number="3">
+        <X>434</X>
+        <Y>433</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT5" state="empty">
+    <corners>
+      <corner number="0">
+        <X>631</X>
+        <Y>456</Y>
+      </corner>
+      <corner number="1">
+        <X>613</X>
+        <Y>404</Y>
+      </corner>
+      <corner number="2">
+        <X>426</X>
+        <Y>337</Y>
+      </corner>
+      <corner number="3">
+        <X>433</X>
+        <Y>380</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT6" state="empty">
+    <corners>
+      <corner number="0">
+        <X>613</X>
+        <Y>404</Y>
+      </corner>
+      <corner number="1">
+        <X>594</X>
+        <Y>359</Y>
+      </corner>
+      <corner number="2">
+        <X>426</X>
+        <Y>298</Y>
+      </corner>
+      <corner number="3">
+        <X>428</X>
+        <Y>335</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT7" state="empty">
+    <corners>
+      <corner number="0">
+        <X>594</X>
+        <Y>359</Y>
+      </corner>
+      <corner number="1">
+        <X>579</X>
+        <Y>322</Y>
+      </corner>
+      <corner number="2">
+        <X>420</X>
+        <Y>270</Y>
+      </corner>
+      <corner number="3">
+        <X>424</X>
+        <Y>297</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT8" state="empty">
+    <corners>
+      <corner number="0">
+        <X>1042</X>
+        <Y>951</Y>
+      </corner>
+      <corner number="1">
+        <X>1254</X>
+        <Y>846</Y>
+      </corner>
+      <corner number="2">
+        <X>1177</X>
+        <Y>736</Y>
+      </corner>
+      <corner number="3">
+        <X>968</X>
+        <Y>799</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT9" state="empty">
+    <corners>
+      <corner number="0">
+        <X>906</X>
+        <Y>685</Y>
+      </corner>
+      <corner number="1">
+        <X>964</X>
+        <Y>798</Y>
+      </corner>
+      <corner number="2">
+        <X>1177</X>
+        <Y>736</Y>
+      </corner>
+      <corner number="3">
+        <X>1102</X>
+        <Y>643</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT10" state="empty">
+    <corners>
+      <corner number="0">
+        <X>857</X>
+        <Y>592</Y>
+      </corner>
+      <corner number="1">
+        <X>905</X>
+        <Y>682</Y>
+      </corner>
+      <corner number="2">
+        <X>1103</X>
+        <Y>642</Y>
+      </corner>
+      <corner number="3">
+        <X>1036</X>
+        <Y>563</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT11" state="empty">
+    <corners>
+      <corner number="0">
+        <X>821</X>
+        <Y>527</Y>
+      </corner>
+      <corner number="1">
+        <X>857</X>
+        <Y>590</Y>
+      </corner>
+      <corner number="2">
+        <X>1035</X>
+        <Y>560</Y>
+      </corner>
+      <corner number="3">
+        <X>987</X>
+        <Y>504</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT12" state="empty">
+    <corners>
+      <corner number="0">
+        <X>786</X>
+        <Y>472</Y>
+      </corner>
+      <corner number="1">
+        <X>817</X>
+        <Y>522</Y>
+      </corner>
+      <corner number="2">
+        <X>979</X>
+        <Y>493</Y>
+      </corner>
+      <corner number="3">
+        <X>931</X>
+        <Y>442</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT13" state="empty">
+    <corners>
+      <corner number="0">
+        <X>578</X>
+        <Y>319</Y>
+      </corner>
+      <corner number="1">
+        <X>563</X>
+        <Y>286</Y>
+      </corner>
+      <corner number="2">
+        <X>414</X>
+        <Y>237</Y>
+      </corner>
+      <corner number="3">
+        <X>421</X>
+        <Y>268</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+  <parkingslot label="SLOT0" state="empty">
+    <corners>
+      <corner number="0">
+        <X>388</X>
+        <Y>797</Y>
+      </corner>
+      <corner number="1">
+        <X>694</X>
+        <Y>943</Y>
+      </corner>
+      <corner number="2">
+        <X>714</X>
+        <Y>816</Y>
+      </corner>
+      <corner number="3">
+        <X>415</X>
+        <Y>666</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+</opencv_storage>

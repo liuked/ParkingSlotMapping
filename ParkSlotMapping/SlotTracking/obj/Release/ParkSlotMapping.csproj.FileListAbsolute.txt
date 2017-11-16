@@ -1,0 +1,11 @@
+C:\Users\Luca\Dropbox\peb\ProgettoETI_CV1_DeMoriLuca\ParkSlotMapping\SlotTracking\bin\Release\ParkSlotMapping.exe.config
+C:\Users\Luca\Dropbox\peb\ProgettoETI_CV1_DeMoriLuca\ParkSlotMapping\SlotTracking\bin\Release\ParkSlotMapping.exe
+C:\Users\Luca\Dropbox\peb\ProgettoETI_CV1_DeMoriLuca\ParkSlotMapping\SlotTracking\bin\Release\ParkSlotMapping.pdb
+C:\Users\Luca\Dropbox\peb\ProgettoETI_CV1_DeMoriLuca\ParkSlotMapping\SlotTracking\obj\Release\ParkSlotMapping.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Dropbox\peb\ProgettoETI_CV1_DeMoriLuca\ParkSlotMapping\SlotTracking\obj\Release\ParkSlotMapping.frmEditSlot.resources
+C:\Users\Luca\Dropbox\peb\ProgettoETI_CV1_DeMoriLuca\ParkSlotMapping\SlotTracking\obj\Release\ParkSlotMapping.frmNewProject.resources
+C:\Users\Luca\Dropbox\peb\ProgettoETI_CV1_DeMoriLuca\ParkSlotMapping\SlotTracking\obj\Release\ParkSlotMapping.frmSlotMapping.resources
+C:\Users\Luca\Dropbox\peb\ProgettoETI_CV1_DeMoriLuca\ParkSlotMapping\SlotTracking\obj\Release\ParkSlotMapping.Properties.Resources.resources
+C:\Users\Luca\Dropbox\peb\ProgettoETI_CV1_DeMoriLuca\ParkSlotMapping\SlotTracking\obj\Release\ParkSlotMapping.csproj.GenerateResource.Cache
+C:\Users\Luca\Dropbox\peb\ProgettoETI_CV1_DeMoriLuca\ParkSlotMapping\SlotTracking\obj\Release\ParkSlotMapping.exe
+C:\Users\Luca\Dropbox\peb\ProgettoETI_CV1_DeMoriLuca\ParkSlotMapping\SlotTracking\obj\Release\ParkSlotMapping.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<slotsmap nslots="1" width="1296" height="972">
+  <parkingslot label="SLOT0" state="empty">
+    <corners>
+      <corner number="0">
+        <X>695</X>
+        <Y>940</Y>
+      </corner>
+      <corner number="1">
+        <X>711</X>
+        <Y>812</Y>
+      </corner>
+      <corner number="2">
+        <X>409</X>
+        <Y>669</Y>
+      </corner>
+      <corner number="3">
+        <X>388</X>
+        <Y>796</Y>
+      </corner>
+    </corners>
+  </parkingslot>
+</slotsmap>
